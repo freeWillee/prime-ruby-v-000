@@ -11,4 +11,3 @@ def prime?(integer)
       integer % number == 0
     end
   end
-end
